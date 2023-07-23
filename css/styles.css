@@ -8,7 +8,8 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #EC91D8;
+    color: #A997DF;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header h2 {
@@ -16,8 +17,9 @@ header h2 {
 }
 
 footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-image: linear-gradient(#4B3F72, white);
     padding: 20px 0;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .jumbotron {
@@ -43,4 +45,15 @@ footer {
 
 .carousel {
     border: solid #5637DD;
+}
+
+.card {
+    background-color: gray;
+    color: white;
+    border: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.table {
+    color: white;
 }
